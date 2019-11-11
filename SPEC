@@ -1,0 +1,16 @@
+-  Creating a Pull Request with Git using a wrapper command minimum foot print i.e why do i need to find the trello card url.
+
+Questions
+  1. Can this pull the bitbucket url.
+  2. Find the card related to the feature.
+  3. Support creating a card using the commit for the branch if it doesn't exists.
+  4. Attach the Bitbucket url for the feature to the card.
+  5. Add the trello card url to the bitbucket PR description.
+  5. Support adding reviewers.
+  6. Can noftify the reviewers on the Team once the PR is ready using a 
+     single command pulls the current branch name can't be on develop or master `tbg notify tom harry jane` 
+     optional --pr option
+     Should this create a slack group for all the reviewers.
+     
+  7. Since slack uses email for the users support using a .dev.users File to manage all stake holders of the project
+     that need to the involved in the code review cycle.
